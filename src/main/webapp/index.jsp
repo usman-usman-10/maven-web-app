@@ -1,14 +1,12 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to Scopeindia - Software, Networking, and Cloud Professional Education Centre in Kerala and Tamil Nadu <font></h1>
+<h1><font color='red'> Welcome to SCOPE INDIA, Your career partner! One of India's best Training destinations for Software, Networking, and Cloud Computing courses with 18 years of Industrial experience. <font></h1>
 
-<a> href="https://scopeindia.org/software-networking-cloud-courses-scope-india">Click here to see our course details</a>
+<a href="https://scopeindia.org">Click Here to see more about our company</a>
   
-  <h2> Call Us / Whatsapp: +91-9745936073 / +91 - 7592939481 / +91 - 8075536185 </h2>
-
-  <h3> Our Ofice Locations : Technopark TVM, Thampanoor TVM, Kochi, Kerala, Nagercoil, Tamil Nadu </h3>
-
-  <h4> Our other Ofice Locations : California, USA, Coimbatore Tamil Nadu </h4>
+  <h2> Call Us : +91-9745936073 / +91 - 9037507361 </h2>
+  
+  <h3> Our Office Locations : Trivandrum, Technopark, Kochi, and Nagercoil </h3>
 
 
 </body>
