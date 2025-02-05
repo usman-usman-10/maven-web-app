@@ -5,10 +5,7 @@
 <a href="https://scopeindia.org">Click Here to see more about our company</a>
   
   <h2> Call Us : +91-9745936073 / +91 - 9037507361 +91 9037507361  </h2>
-
-  <h2> Call Us : +91-9745936073 / +91 - 9037507361 +91 9037507361  </h2>
-  <h2> Call Us : +91-9745936073 / +91 - 9037507361 +91 9037507361  </h2>
-  
+ 
   <h3> Our Office Locations : Trivandrum, Technopark, Kochi, and Nagercoil </h3>
 
 
